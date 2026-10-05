@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "name": "dinesh",
+      "email": "dineshgurugubelli26@gmail.com",
+      "password": "12343212",
+      "id": "iplp-gAb6rs"
+    },
+    {
+      "name": "Dinesh",
+      "email": "dineshdi26@gmail.com",
+      "password": "12343212",
+      "id": "iRnYgdn_154"
+    },
+    {
+      "name": "Dinesh",
+      "email": "dineshdinu3026@gmail.com",
+      "password": "1234321",
+      "id": "Jeihjh2rD-8"
+    },
+    {
+      "name": "afsa",
+      "email": "shaikafsa30a05@gmail.com",
+      "password": "302656",
+      "id": "T3z2jmc6v2w"
+    },
+    {
+      "name": "Dinesh",
+      "email": "lokesh123@gmail.com",
+      "password": "lokesh123",
+      "id": "eK8U0lyBL2o"
+    },
+    {
+      "name": "nsk",
+      "email": "nsk123@gmail.com",
+      "password": "123432",
+      "id": "DYoHyB-Jutw"
+    }
+  ],
+  "complaints": [
+    {
+      "id": "1",
+      "title": "Water Leakage in Corridor",
+      "category": "Maintenance",
+      "status": "Pending",
+      "priority": "High",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRheMIr2yNj_enzSJFIidPIG3cRbBP7qJBIzEWt-y-It3G7QhMF",
+      "description": "Continuous water leakage near the second floor corridor causing slippery flooring.",
+      "location": "Block A, 2nd Floor",
+      "dateFiled": "2026-01-10",
+      "complainantName": "Ravi Kumar",
+      "complainantEmail": "ravi@gmail.com",
+      "assignedTo": "Facility Team",
+      "resolutionNotes": [
+        "Inspected on 2026-01-11",
+        "Plumber assigned"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Broken Street Light",
+      "category": "Electrical",
+      "status": "In Progress",
+      "priority": "Medium",
+      "image": "https://media.istockphoto.com/id/496026170/photo/broken-street-lamp.jpg?s=612x612&w=0&k=20&c=1bX4binyYkD8P_ZzHbfRTspKowTIGoTkSjxvbcjAkY4=",
+      "description": "Street light near the main gate has been non-functional for a week.",
+      "location": "Main Gate",
+      "dateFiled": "2026-01-08",
+      "complainantName": "Anita Rao",
+      "complainantEmail": "anita@gmail.com",
+      "assignedTo": "Electrical Team",
+      "resolutionNotes": [
+        "Technician scheduled for 2026-01-15"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Overflowing Drain in Parking Lot",
+      "category": "Plumbing",
+      "status": "Pending",
+      "priority": "High",
+      "image": "https://www.jolinpavingandexcavating.com/wp-content/uploads/2019/07/AdobeStock_67126094-blog.jpg",
+      "description": "The storm drain near the visitor parking is blocked and water is overflowing onto the road.",
+      "location": "Visitor Parking",
+      "dateFiled": "2026-01-12",
+      "complainantName": "Suresh Babu",
+      "complainantEmail": "suresh@gmail.com",
+      "assignedTo": "Plumbing Team",
+      "resolutionNotes": [
+        "Complaint registered"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Garbage Not Collected",
+      "category": "Sanitation",
+      "status": "In Progress",
+      "priority": "Medium",
+      "image": "https://www.shutterstock.com/image-photo/trash-bin-overloaded-no-garbage-260nw-2030249840.jpg",
+      "description": "Garbage bins behind the cafeteria have not been emptied for three days and the smell is spreading.",
+      "location": "Cafeteria, Rear Side",
+      "dateFiled": "2026-01-09",
+      "complainantName": "Meena Devi",
+      "complainantEmail": "meena@gmail.com",
+      "assignedTo": "Housekeeping Team",
+      "resolutionNotes": [
+        "Housekeeping supervisor informed",
+        "Extra pickup scheduled"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Unauthorized Entry at Back Gate",
+      "category": "Security",
+      "status": "Resolved",
+      "priority": "High",
+      "image": "https://media.istockphoto.com/id/2247955809/vector/open-door-icon-security-risk-trespassing-insider-threat.jpg?s=612x612&w=0&k=20&c=3Ej3CNIZdq9THdBBk69ZgN-987R-X-oEP6dJBv8ODGw=",
+      "description": "The back gate lock is broken and strangers were seen entering the campus after 9 PM.",
+      "location": "Back Gate",
+      "dateFiled": "2026-01-05",
+      "complainantName": "Karthik Reddy",
+      "complainantEmail": "karthik@gmail.com",
+      "assignedTo": "Security Team",
+      "resolutionNotes": [
+        "Lock replaced on 2026-01-07",
+        "Night patrol added",
+        "Closed on 2026-01-08"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Loud Music Late at Night",
+      "category": "Noise",
+      "status": "Pending",
+      "priority": "Low",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXKi59fJaAj9yp6BI13xs17HYh4DMFgjirHtB3Qt0M32dHuhACrIRbjlW&s=10",
+      "description": "Loud music from the community hall continues beyond 11 PM on weekdays.",
+      "location": "Community Hall",
+      "dateFiled": "2026-01-13",
+      "complainantName": "Lakshmi Prasad",
+      "complainantEmail": "lakshmi@gmail.com",
+      "assignedTo": "Administration",
+      "resolutionNotes": []
+    },
+    {
+      "id": "7",
+      "title": "Flickering Lights in Library",
+      "category": "Electrical",
+      "status": "Resolved",
+      "priority": "Low",
+      "image": "https://images.stockcake.com/public/8/5/b/85ba4cb6-27e6-47aa-9ec3-784743818e50_large/enchanted-book-aisle-stockcake.jpg",
+      "description": "Tube lights in the reading section flicker continuously and strain the eyes.",
+      "location": "Library, 1st Floor",
+      "dateFiled": "2026-01-03",
+      "complainantName": "Divya Sree",
+      "complainantEmail": "divya@gmail.com",
+      "assignedTo": "Electrical Team",
+      "resolutionNotes": [
+        "Faulty chokes replaced",
+        "Verified by librarian"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Broken Window in Classroom",
+      "category": "Maintenance",
+      "status": "In Progress",
+      "priority": "Medium",
+      "image": "https://media.istockphoto.com/id/173832339/photo/broken-windows.jpg?s=612x612&w=0&k=20&c=xEFem_ufv0-n75W5FfmS3XZfC8uJRDdGrbY3X7oA9Vc=",
+      "description": "A window pane in Classroom 204 is cracked and rain water enters during storms.",
+      "location": "Block B, Room 204",
+      "dateFiled": "2026-01-07",
+      "complainantName": "Naveen Kumar",
+      "complainantEmail": "naveen@gmail.com",
+      "assignedTo": "Facility Team",
+      "resolutionNotes": [
+        "Glass replacement ordered"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "No Water Supply in Restroom",
+      "category": "Plumbing",
+      "status": "Pending",
+      "priority": "Medium",
+      "image": "https://americanhomewater.com/wp-content/uploads/2023/07/faucet-no-water-e1713774995690-1.png",
+      "description": "The ground floor restroom has had no running water since Monday morning.",
+      "location": "Block C, Ground Floor",
+      "dateFiled": "2026-01-14",
+      "complainantName": "Pooja Sharma",
+      "complainantEmail": "pooja@gmail.com",
+      "assignedTo": "Plumbing Team",
+      "resolutionNotes": []
+    },
+    {
+      "id": "10",
+      "title": "CCTV Camera Not Working",
+      "category": "Security",
+      "status": "Pending",
+      "priority": "High",
+      "image": "https://as2.ftcdn.net/jpg/04/54/51/77/1000_F_454517711_SWKtUUsMYXQGmV1UXano2H9OI2dGqcmo.jpg",
+      "description": "The CCTV camera covering the bike parking area has been offline for two days.",
+      "location": "Bike Parking",
+      "dateFiled": "2026-01-14",
+      "complainantName": "Ramesh Naidu",
+      "complainantEmail": "ramesh@gmail.com",
+      "assignedTo": "Security Team",
+      "resolutionNotes": [
+        "Technician call logged"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
